@@ -324,13 +324,13 @@ transition:
     }
 }
 .no-js .profile--image {
-  /*background-image: url(https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11988452_1060739133944988_4755773089971111787_n.jpg?oh=68644db672fd633e83a20636e3809525&oe=56AF2BA2);*/
+  background-image: url(https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11988452_1060739133944988_4755773089971111787_n.jpg?oh=68644db672fd633e83a20636e3809525&oe=56AF2BA2);
 }
 .theme-0 .profile--image {
-  /*background-image: url(https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11988452_1060739133944988_4755773089971111787_n.jpg?oh=68644db672fd633e83a20636e3809525&oe=56AF2BA2);*/
+  background-image: url(https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11988452_1060739133944988_4755773089971111787_n.jpg?oh=68644db672fd633e83a20636e3809525&oe=56AF2BA2);
 }
 .theme-1 .profile--image {
- /* background-image: url(https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11988452_1060739133944988_4755773089971111787_n.jpg?oh=68644db672fd633e83a20636e3809525&oe=56AF2BA2);*/
+  background-image: url(https://scontent.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11988452_1060739133944988_4755773089971111787_n.jpg?oh=68644db672fd633e83a20636e3809525&oe=56AF2BA2);
 }
 @media screen and (min-width: 730px) {
   .theme-1 nav ul li a,
@@ -339,11 +339,11 @@ transition:
 }
 
 .theme-2 .profile--image {
- /* background-image: url(https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/11220465_1060739277278307_4567079280063342314_n.jpg?oh=ce2e459ca69cca66208a873e93e0ef3a&oe=56B6248F);*/
+  background-image: url(https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/11220465_1060739277278307_4567079280063342314_n.jpg?oh=ce2e459ca69cca66208a873e93e0ef3a&oe=56B6248F);
 }
 .theme-3 .profile--image {
- /* background-image: url(https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/11220465_1060739277278307_4567079280063342314_n.jpg?oh=ce2e459ca69cca66208a873e93e0ef3a&oe=56B6248F);*/
+  background-image: url(https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/11220465_1060739277278307_4567079280063342314_n.jpg?oh=ce2e459ca69cca66208a873e93e0ef3a&oe=56B6248F);
 }
 .theme-4 .profile--image {
- /* background-image: url(https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/11220465_1060739277278307_4567079280063342314_n.jpg?oh=ce2e459ca69cca66208a873e93e0ef3a&oe=56B6248F);*/
+  background-image: url(https://scontent.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/11220465_1060739277278307_4567079280063342314_n.jpg?oh=ce2e459ca69cca66208a873e93e0ef3a&oe=56B6248F);
 }
